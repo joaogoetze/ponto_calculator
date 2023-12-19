@@ -1,7 +1,9 @@
 # ponto_calculator
 Sistema para registro de ponto eletrônico
 
-Esse projeto foi desenvolvido durante as cadeiras de Projeto Integrador na UNISC, no curso de Análise e Desenvolvimento de Sistemas, ele tem como objetivos:
+Esse projeto foi desenvolvido durante as cadeiras de Projeto Integrador na UNISC, no curso de Análise e Desenvolvimento de Sistemas
+
+Objetivos:
 - Criar algo que resolva algum problema do mercado atual;
 - Praticar os consteúdos adquiridos nas demais cadeiras do curso;
 - Integrar as linguagens de programação e ferramentas aprendidas para criar um sistema robusto, seguro e prático
