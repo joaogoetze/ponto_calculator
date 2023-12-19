@@ -22,10 +22,10 @@ Ferramentas utilizadas:
 - Docker Desktop
 
 Como testar/utilizar:
-- Instale o Docker Desktop
-- Baixe os arquivos do projeto
-- Vá até o diretório ponto_calculator_back-end
-- No CMD, digite docker-compose build e espere terminar
-- Digite docker-compose build e espere
-- Vá no seu navegador e acesse a URL: http://localhost:8001/swagger/index.html
+- Instale o Docker Desktop;
+- Baixe os arquivos do projeto;
+- Vá até o diretório ponto_calculator_back-end;
+- No CMD, digite docker-compose build e espere terminar;
+- Digite docker-compose build e espere;
+- Vá no seu navegador e acesse a URL: http://localhost:8001/swagger/index.html;
 - Se for possível ver as APIs, está funcionando
