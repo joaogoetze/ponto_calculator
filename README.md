@@ -16,7 +16,7 @@ Tecnologias utilizadas:
 - Git para controle de versão
 
 Ferramentas utilizadas:
-- Android Studio
-- Visual Studio Code
-- Visual Studio
+- Android Studio;
+- Visual Studio Code;
+- Visual Studio;
 - Docker Desktop
