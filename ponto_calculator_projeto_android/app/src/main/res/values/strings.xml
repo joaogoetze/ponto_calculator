@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Ponto Calculator</string>
+    <string name="title_register_ponto">Registrar Ponto</string>
+    <string name="title_recover_password">Recuperar Senha</string>
+
+    <string name="label_name">Nome</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_password">Senha</string>
+    <string name="label_received_code">Código Recebido</string>
+    <string name="label_new_password">Nova Senha</string>
+
+    <string name="send_code_button">Enviar Código</string>
+    <string name="ponto_register_button">Registrar Ponto</string>
+
+    <string name="access">Acessar</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+    <string name="alter_password">Alterar Senha</string>
+    <string name="out">Sair</string>
+    <string name="register">Cadastre-se</string>
+    <string name="login">Login</string>
+
+</resources>
