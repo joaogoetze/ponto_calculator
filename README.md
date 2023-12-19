@@ -13,7 +13,7 @@ Tecnologias utilizadas:
 - Docker para criação de containers, com o intuito de facilitar e otimizar o desenvolvimento
 - Git para controle de versão
 
-Ferramentas utilizadas
+Ferramentas utilizadas:
 - Android Studio
 - Visual Studio Code
 - Visual Studio
