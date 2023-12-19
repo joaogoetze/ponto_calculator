@@ -9,9 +9,9 @@ Objetivos:
 - Integrar as linguagens de programação e ferramentas aprendidas para criar um sistema robusto, seguro e prático
 
 Tecnologias utilizadas:
-- Linguagem de programação JAVA para desenvolvimento do aplicativo android
-- Framework ReactJS + NextJS para desenvolvimento do sistema Web
-- Linguagem de programação C# (.NET) para desenvolvimento das APIs utilizadas e banco de dados
+- Linguagem de programação JAVA para desenvolvimento do aplicativo android;
+- Framework ReactJS + NextJS para desenvolvimento do sistema Web;
+- Linguagem de programação C# (.NET) para desenvolvimento das APIs utilizadas e banco de dados;
 - Docker para criação de containers, com o intuito de facilitar e otimizar o desenvolvimento
 - Git para controle de versão
 
